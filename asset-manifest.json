@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/gamewave/static/css/main.b42a0614.chunk.css",
+    "main.js": "/gamewave/static/js/main.eb691d85.chunk.js",
+    "main.js.map": "/gamewave/static/js/main.eb691d85.chunk.js.map",
+    "runtime-main.js": "/gamewave/static/js/runtime-main.3267022e.js",
+    "runtime-main.js.map": "/gamewave/static/js/runtime-main.3267022e.js.map",
+    "static/js/2.7b955c02.chunk.js": "/gamewave/static/js/2.7b955c02.chunk.js",
+    "static/js/2.7b955c02.chunk.js.map": "/gamewave/static/js/2.7b955c02.chunk.js.map",
+    "index.html": "/gamewave/index.html",
+    "precache-manifest.4fc678112074bb4007de9a05acc5203d.js": "/gamewave/precache-manifest.4fc678112074bb4007de9a05acc5203d.js",
+    "service-worker.js": "/gamewave/service-worker.js",
+    "static/css/main.b42a0614.chunk.css.map": "/gamewave/static/css/main.b42a0614.chunk.css.map",
+    "static/js/2.7b955c02.chunk.js.LICENSE.txt": "/gamewave/static/js/2.7b955c02.chunk.js.LICENSE.txt",
+    "static/media/Bishop-white.svg": "/gamewave/static/media/Bishop-white.2433d126.svg",
+    "static/media/Bishop.svg": "/gamewave/static/media/Bishop.58d796b2.svg",
+    "static/media/King-white.svg": "/gamewave/static/media/King-white.ad1c5459.svg",
+    "static/media/King.svg": "/gamewave/static/media/King.912b64b4.svg",
+    "static/media/Knight-white.svg": "/gamewave/static/media/Knight-white.ce2faf3c.svg",
+    "static/media/Knight.svg": "/gamewave/static/media/Knight.8b60a74f.svg",
+    "static/media/Pawn-white.svg": "/gamewave/static/media/Pawn-white.b24dced7.svg",
+    "static/media/Pawn.svg": "/gamewave/static/media/Pawn.b3be38d2.svg",
+    "static/media/Queen-white.svg": "/gamewave/static/media/Queen-white.3ac262da.svg",
+    "static/media/Queen.svg": "/gamewave/static/media/Queen.6a1f3004.svg",
+    "static/media/Rook-white.svg": "/gamewave/static/media/Rook-white.3dd20b2a.svg",
+    "static/media/Rook.svg": "/gamewave/static/media/Rook.9b12af1b.svg",
+    "static/media/tetris.css": "/gamewave/static/media/space-buttom.834ae074.svg",
+    "static/media/App.css": "/gamewave/static/media/background.0578369b.svg",
+    "static/media/GameSelect.css": "/gamewave/static/media/tetris-title.b06d3068.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3267022e.js",
+    "static/js/2.7b955c02.chunk.js",
+    "static/css/main.b42a0614.chunk.css",
+    "static/js/main.eb691d85.chunk.js"
+  ]
+}
