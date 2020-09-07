@@ -1,0 +1,101 @@
+.GameSelect{
+  font-family: 'Poppins', sans-serif;
+  width: 70vw;
+  height: 80vh;
+  display: flex;
+  justify-content: space-between;
+}
+.GameSelect .card{
+  background-color: #4B4B4B80;
+  padding: 5% 0 5% 0;
+  height: 100%;
+  width: 30%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+.GameSelect .card p{
+  width: 80%;
+  line-height: 1em;
+  font-size: 1.2em;
+  color: #FFFFFF;
+  opacity: 0.8;
+}
+.GameSelect .card .wrapper{
+  display: flex;
+  height: 30%;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+.GameSelect .card .wrapper .title{
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  min-width: 20vw;
+  height: 3vw;
+}
+.GameSelect .card .img{
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 7vw;
+  height: 7vw;
+  margin-bottom: 0.5em;
+}
+.GameSelect .card .wrapper .title-two{
+  background-image: url('../images/rubiks-title.svg') ;
+}
+.GameSelect .card .wrapper .title-one{
+  background-image: url('../images/chess-title.svg') ;
+}
+.GameSelect .card .wrapper .title-three{
+  background-image: url('../images/tetris-title.svg') ;
+}
+.GameSelect .card .card-one{
+    background-image: url('../images/chess-icon.svg') ;
+}
+.GameSelect .card .card-two{
+    background-image: url('../images/rubik-icon.svg') ;
+}
+.GameSelect .card .card-three{
+    background-image: url('../images/tetris-icon.svg') ;
+}
+.GameSelect .card .btn{
+  font-size: 2em;
+  font-weight: bold;
+  background-color: transparent;
+  border-radius: 1.5em;
+  width: 80%;
+  cursor: pointer;
+  transition: all 0.5s ease;
+}
+.GameSelect .card .btn:active{
+  border: none;
+  outline: none;
+}
+.GameSelect .card #tetris-btn{
+  color: #C79B00;
+  border: 0.12em solid #C79B00;
+}
+.GameSelect .card #tetris-btn:hover{
+  background-color: #C79B00;
+  color: #FFFFFF;
+}
+.GameSelect .card #rubiks-btn{
+  color: #4C6E87;
+  border: 0.12em solid #4C6E87;
+}
+.GameSelect .card #rubiks-btn:hover{
+  background-color: #4C6E87;
+  color: #FFFFFF;
+}
+.GameSelect .card #chess-btn{
+  color: #B74F0A;
+  border: 0.12em solid #B74F0A;
+}
+.GameSelect .card #chess-btn:hover{
+  background-color: #B74F0A;
+  color: #FFFFFF;
+}

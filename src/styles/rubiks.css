@@ -1,0 +1,43 @@
+.rubik-wrapper{
+  display: flex;
+}
+
+.rubik-buttons{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  width: 50vh;
+  height: 70vh;
+  padding: 0 1em 0 1em;
+  font-weight: bold;
+  background-color: #000000AA;
+}
+
+.rubik-buttons button {
+  background-color: transparent;
+  height: 2.2em;
+}
+.rubik-buttons .blue-button{
+  color: #00D2FF;
+  border: 0.1em solid #00D2FF;
+}
+.rubik-buttons .red-button{
+  color: #BB0000;
+  border: 0.1em solid #BB0000;
+}
+.rubik-buttons .white-button{
+  color: #F2F3EE;
+  border: 0.1em solid #F2F3EE;
+}
+.rubik-buttons .orange-button{
+  color: #F0750F;
+  border: 0.1em solid #F0750F;
+}
+.rubik-buttons .yellow-button{
+  color: #FFF77D;
+  border: 0.1em solid #FFF77D;
+}
+.rubik-buttons .green-button{
+  color: #5A8D03;
+  border: 0.1em solid #5A8D03;
+}
