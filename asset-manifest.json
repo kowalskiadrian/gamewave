@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/gamewave/static/css/main.b42a0614.chunk.css",
-    "main.js": "/gamewave/static/js/main.529250d0.chunk.js",
-    "main.js.map": "/gamewave/static/js/main.529250d0.chunk.js.map",
+    "main.js": "/gamewave/static/js/main.afa790a5.chunk.js",
+    "main.js.map": "/gamewave/static/js/main.afa790a5.chunk.js.map",
     "runtime-main.js": "/gamewave/static/js/runtime-main.3267022e.js",
     "runtime-main.js.map": "/gamewave/static/js/runtime-main.3267022e.js.map",
     "static/js/2.7b955c02.chunk.js": "/gamewave/static/js/2.7b955c02.chunk.js",
     "static/js/2.7b955c02.chunk.js.map": "/gamewave/static/js/2.7b955c02.chunk.js.map",
     "index.html": "/gamewave/index.html",
-    "precache-manifest.c18703ac5b4ba737771af65a21234382.js": "/gamewave/precache-manifest.c18703ac5b4ba737771af65a21234382.js",
+    "precache-manifest.767b1a0e6c5cee74188d2574179a92e8.js": "/gamewave/precache-manifest.767b1a0e6c5cee74188d2574179a92e8.js",
     "service-worker.js": "/gamewave/service-worker.js",
     "static/css/main.b42a0614.chunk.css.map": "/gamewave/static/css/main.b42a0614.chunk.css.map",
     "static/js/2.7b955c02.chunk.js.LICENSE.txt": "/gamewave/static/js/2.7b955c02.chunk.js.LICENSE.txt",
@@ -32,6 +32,6 @@
     "static/js/runtime-main.3267022e.js",
     "static/js/2.7b955c02.chunk.js",
     "static/css/main.b42a0614.chunk.css",
-    "static/js/main.529250d0.chunk.js"
+    "static/js/main.afa790a5.chunk.js"
   ]
 }

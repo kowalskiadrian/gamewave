@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/gamewave/precache-manifest.c18703ac5b4ba737771af65a21234382.js"
+  "/gamewave/precache-manifest.767b1a0e6c5cee74188d2574179a92e8.js"
 );
 
 self.addEventListener('message', (event) => {

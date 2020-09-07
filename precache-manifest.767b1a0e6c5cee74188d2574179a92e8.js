@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "377459cd22025e20f68293c9c3310413",
+    "revision": "fd2b2427113754069269454c5372e1ee",
     "url": "/gamewave/index.html"
   },
   {
-    "revision": "9a7def76e24d97caab58",
+    "revision": "932c700169dc62573a0a",
     "url": "/gamewave/static/css/main.b42a0614.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/gamewave/static/js/2.7b955c02.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9a7def76e24d97caab58",
-    "url": "/gamewave/static/js/main.529250d0.chunk.js"
+    "revision": "932c700169dc62573a0a",
+    "url": "/gamewave/static/js/main.afa790a5.chunk.js"
   },
   {
     "revision": "1d227797b5e01580de04",
